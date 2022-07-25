@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Congratulations!
 
 You can use the [editor on GitHub](https://github.com/chihiroll0330/chihiroll0330.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
